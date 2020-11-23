@@ -645,5 +645,5 @@ async def fiesta(ctx):
             board.digital[11].write(0)
             play_obj.wait_done()
             await ctx.send("Fiesta !!!")
-TOKEN="Nzc3OTIzNjc3NDUwNzk3MDg4.X7Kf4Q.s2Q695WrcH75EnOHdBQBs059NHU"
+TOKEN="XXXX"
 Bot.run(TOKEN)
